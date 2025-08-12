@@ -10,13 +10,13 @@
 
 Whether you’re a recruiter evaluating a candidate or a potential team member considering joining Zylectra — here’s what I bring to the table:  
 
-- **Systems Thinker** – I design architectures that handle real-world scale, not just proof-of-concepts.  
-- **AI + Infra Expertise** – I bridge AI capabilities with robust infrastructure for high-impact products.  
-- **Execution Velocity** – I move from idea → architecture → production deployment at startup speed without compromising quality.  
-- **Ownership Mentality** – I treat every project like it’s my own company — because I’ve built companies from scratch.  
-- **Mentorship & Collaboration** – I know how to grow people alongside products, creating strong, autonomous teams.  
+- **Systems Thinker:** I design architectures that handle real-world scale, not just proof-of-concepts.  
+- **AI + Infra Expertise:** I bridge AI capabilities with robust infrastructure for high-impact products.  
+- **Execution Velocity:** I move from idea → architecture → production deployment at startup speed without compromising quality.  
+- **Ownership Mentality:** I treat every project like it’s my own company — because I’ve built companies from scratch.  
+- **Mentorship & Collaboration:** I know how to grow people alongside products, creating strong, autonomous teams.  
 
-If you want someone who can think big, execute fast, and scale smart — I’m your guy.
+If you want someone who can think big, execute fast, and scale smart...I’m your guy.
 
 ---
 
@@ -44,8 +44,8 @@ Full-featured, secure, and scalable video platform backend.
 ### 🎓 EdTech Backend System  
 Secure, scalable, and payment-ready learning platform backend.  
 - 🔐 JWT auth with OTP-based password reset & token-based sessions.  
-- 📚 Course management – CRUD courses, track progress, manage sections/subsections, instructor-specific views.  
-- 👤 User & profile APIs – update info, upload avatars, view enrolled courses, delete account.  
+- 📚 Course management: CRUD courses, track progress, manage sections/subsections, instructor-specific views.  
+- 👤 User & profile APIs: Update info, upload avatars, view enrolled courses, delete account.  
 - 💳 Razorpay integration for secure checkout & automatic enrollment.  
 - ⭐ Ratings & reviews tied to users & courses.  
 - 📊 Instructor dashboard with real-time metrics & monthly analytics.  
@@ -65,7 +65,6 @@ Intelligent, event-driven ticket management.
 
 ## 📈 Currently Building  
 - ⚡ [Zylectra](https://zylectratech.vercel.app) – **EV Optimization Platform** (Founder & CEO)  
-- 🧠 Learning **Django** & **AI/ML engineering**  
 
 ---
 
