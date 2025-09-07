@@ -53,17 +53,6 @@ Full-featured, secure, and scalable video platform backend.
 
 ---
 
-### 🎓 EdTech Backend System  
-Secure, scalable, and payment-ready learning platform backend.  
-- 🔐 JWT auth with OTP-based password reset & token-based sessions.  
-- 📚 Course management: CRUD courses, track progress, manage sections/subsections, instructor-specific views.  
-- 👤 User & profile APIs: Update info, upload avatars, view enrolled courses, delete account.  
-- 💳 Razorpay integration for secure checkout & automatic enrollment.  
-- ⭐ Ratings & reviews tied to users & courses.  
-- 📊 Instructor dashboard with real-time metrics & monthly analytics.  
-
----
-
 ### 🤖 AI-Powered Smart Ticketing System  
 Intelligent, event-driven ticket management.  
 - 🤖 Google Gemini classification auto-detects ticket type, priority, skills, and context notes.  
