@@ -22,6 +22,18 @@ If you want someone who can think big, execute fast, and scale smart...I’m you
 
 ## 🛠️ Featured Projects  
 
+### SkillMatch – AI-Powered Job Matching Platform
+Intelligent recruitment platform connecting candidates with employers through advanced AI-driven matching.
+
+- 🤖 Smart AI Matching: GPT-powered algorithms analyze skills, experience, location, and salary for 0-100 compatibility scores.
+- 📄 Resume Intelligence: PyPDF2-powered parsing with automatic skill extraction and experience estimation.
+- 🔐 Multi-Auth System: OTP email verification + Google OAuth with JWT token management.
+- 📊 Recruiter Dashboard: Real-time analytics, candidate pool insights, and AI-generated candidate summaries.
+- 🎓 Learning Path Engine: YouTube API integration for personalized skill development recommendations.
+- 🏢 Enterprise Features: Company profile management, job posting automation, and external job API integration.
+
+---
+
 ### 🔌 Codedrop – Zip Deploy Engine (Vercel clone)  
 A production-grade deployment engine that turns a `.zip` into a live subdomain in seconds.  
 - ⚡ Smart build diffing with content hashing to skip unchanged files.  
