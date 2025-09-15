@@ -8,8 +8,6 @@
 
 ## 💡 Why Work With Me  
 
-Whether you’re a recruiter evaluating a candidate or a potential team member considering joining Zylectra — here’s what I bring to the table:  
-
 - **Systems Thinker:** I design architectures that handle real-world scale, not just proof-of-concepts.  
 - **AI + Infra Expertise:** I bridge AI capabilities with robust infrastructure for high-impact products.  
 - **Execution Velocity:** I move from idea → architecture → production deployment at startup speed without compromising quality.  
