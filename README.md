@@ -2,7 +2,7 @@
 
 🚀 **Backend Developer** | **Founder @Zylectra**  
 🔧 I build production-grade backend systems, real-time infrastructure, and AI-powered tools that scale.  
-📦 **Node.js** | **Docker** | **Redis** | **WebSocket** | **MongoDB** | **Python** | **Django**
+📦 **Node.js** | **Docker** | **Redis** | **WebSocket** | **MongoDB** | **Python** | **Django** | **Next.js** | **TypeScript**
 
 ---
 
