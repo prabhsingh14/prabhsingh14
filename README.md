@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prabh Singh
 
-🚀 ****Founder @Zylectra**  
+🚀 **Founder @Zylectra**  
 🔧 I build production-grade full-stack and AI products, real-time infrastructure that scale.  
 📦 **Node.js** | **Docker** | **Redis** | **WebSocket** | **MongoDB** | **PostgreSQL** | **Django** | **Next.js** | **TypeScript** | **Machine Learning** | **Deep Learning**
 
